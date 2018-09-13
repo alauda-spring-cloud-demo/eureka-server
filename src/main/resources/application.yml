@@ -1,0 +1,9 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: eureka
+erueka:
+  server:
+    enable-self-preservation: false
+    eviction-interval-timer-in-ms: 3000
