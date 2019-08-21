@@ -1,7 +1,3 @@
-slack:
-  url: https://hooks.slack.com/services/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
-  channel: spring-cloud-demo
-  user: eureka
 spring:
   application:
       name: eureka-server
