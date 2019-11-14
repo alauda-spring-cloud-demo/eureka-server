@@ -36,3 +36,8 @@ eureka:
     prefer-ip-address: true
     lease-renewal-interval-in-seconds: 5
     lease-expiration-duration-in-seconds: 10
+---
+spring:
+  profile: default
+server:
+  port: 8761
